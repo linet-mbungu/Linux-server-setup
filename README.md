@@ -33,7 +33,20 @@ Created a dedicated user `webadmin` with sudo privileges following the principle
 Replaced the default Nginx page with a custom HTML page served on localhost.
 
 ## Screenshots
-*(See screenshots folder)*
+### Nginx Running
+![Nginx Status](screenshots/Screenshot_2026-06-12_143112.png)
+
+### Nginx Serving Pages
+![Curl Output](screenshots/Screenshot_2026-06-12_143205.png)
+
+### Firewall Configuration
+![UFW Status](screenshots/Screenshot_2026-06-12_144721.png)
+
+### User Management
+![Webadmin User](screenshots/Screenshot_2026-06-12_145233.png)
+
+### Live Webpage
+![Live Server](screenshots/Screenshot_2026-06-12_145556.png)
 
 ## Skills Demonstrated
 - Linux system administration
