@@ -34,7 +34,7 @@ Replaced the default Nginx page with a custom HTML page served on localhost.
 
 ## Screenshots
 ### Nginx Running
-![Nginx Status](screenshots/Screenshot_2026-06-12_143112.png)
+![Nginx Status](screenshots/Screenshot%202026-06-12%20143112.png)
 
 ### Nginx Serving Pages
 ![Curl Output](screenshots/Screenshot_2026-06-12_143205.png)
